@@ -1,0 +1,3 @@
+github: https://github.com/kkh0811/Assignment2_SlotMachine.git
+
+url: http://gihokimassign.azurewebsites.net/
